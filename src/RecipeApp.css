@@ -1,0 +1,11 @@
+#root {
+  display: flex;
+  flex-direction: wrap;
+  flex-wrap: wrap;
+}
+
+.body {
+  display: flex;
+  flex-direction: wrap;
+  flex-wrap: wrap;
+}
